@@ -1,8 +1,11 @@
 ---
 title: Text and Typography
 date: 2023-09-20 11:22:48 +0900
-categories: [blog, sample]
-tags: [typography]
+categories:
+  - blog
+  - sample
+tags:
+  - typography
 pin: true
 math: true
 mermaid: true
