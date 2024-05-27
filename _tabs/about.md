@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 math: true
 mermaid: true
-title: 글이 어떻게 보여지는지 확인
+title: 글 작성에 필요한 문법
 ---
 This post is to show Markdown syntax rendering on [**VITALOG**](/).
 ## Headings
